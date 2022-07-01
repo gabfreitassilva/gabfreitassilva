@@ -1,13 +1,13 @@
 <div>
-	<a href="https://twitter.com/gabfrytas" target="_blank">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+	<a href="https://twitter.com/gabfrytas">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/ccfreitass/" target="_blank">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+	<a href="https://www.instagram.com/ccfreitass/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 </div>
 
-## Hello there
+## Bem vindo/a!
 
 Um pouquinho sobre minha pessoa, espero que goste.
 
@@ -25,6 +25,7 @@ Atualmente estou estudando HTML - CSS - JS com maior prioridade e em segundo pla
 * **Idade**: 20
 * **Moro em**: Maracanaú - CE, Brasil
 * **Faculdade**: Engenharia de Controle e Automação - IFCE
+* **Linguagens/Tecnologias**: HTML - CSS - JS - Python - C
 
 ## Curiosidades
 
