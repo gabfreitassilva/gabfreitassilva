@@ -17,7 +17,7 @@ Me chamo Gabriel Freitas. Atualmente moro em Maracanaú - CE, Brasil e faço fac
 
 Meu primeiro contato com programação foi com Python e agora estou estudando desenvolvimento web (HTML, CSS e JS).
 
-Atualmente estou estudando HTML - CSS - JS com maior prioridade e em segundo plano estou estudando também Python e C.
+Atualmente estou estudando HTML - CSS - JS com maior prioridade e em segundo plano estou estudando Python e C.
 
 ## Informações detalhadas
 
