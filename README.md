@@ -15,7 +15,7 @@ Um pouquinho sobre minha pessoa, espero que goste.
 
 Me chamo Gabriel Freitas. Atualmente moro em Maracanaú - CE, Brasil e faço faculdade de Engenharia de Controle e Automação no IFCE.
 
-Meu principal foco de aprendizado está em front-end com HTML, CSS e JS, e no meu tempo livre costumo estudar Python e C.
+Estou aprendendo front-end com HTML, CSS e JS, e no meu tempo livre costumo estudar Python e C.
 
 ## Informações detalhadas
 
