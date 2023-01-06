@@ -1,4 +1,4 @@
-<h2 align=center>Olá!!👋 Eu me chamo Gabriel Freitas🫡</h2>
+<h2 align=center>Olá!!👋 Seja bem vindo! 🎉</h2>
 <h3 align=center>Estudante de Engenharia de Controle e Automação, IFCE</h3>
 
 <div align=center>
