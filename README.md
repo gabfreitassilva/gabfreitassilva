@@ -21,5 +21,5 @@
 
 <h2>Stats</h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfreitassilva&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfreitassilva&layout=compact&theme=dark">
 </div>
