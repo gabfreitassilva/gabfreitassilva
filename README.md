@@ -8,15 +8,17 @@
   <a href=mailto:contatofreitas.gab@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<h2>Habilidades</h2>
+<h2>Paixões</h2>
 <div align=center>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <!-- https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white futuro workspace--!>
 	
 </div>
 
 <h2>Stats</h2>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfreitassilva&layout=compact&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfreitassilva&layout=compact&theme=dracula">
 </div>
