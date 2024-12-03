@@ -1,6 +1,6 @@
 <h2 align=center>Olá!!👋 Eu sou o Gabriel Freitas...🎉</h2>
 <h3 align=center>Estudante de Engenharia de Controle e Automação, IFCE</h3>
-<p>Apaixonado por tecnologia, eletrônica, automação e outros muitos assuntos diversos envolvendo ciências, engenharia, história e por ai vai. Sempre buscando entender esse vasto mundo complexo e nos tempos livres, visurado em escutar música e assistir filmes. Espero conseguir colher ótimos frutos ao longo da minha jornada e criar ótimas relações pessoais.</p>
+<p>Apaixonado por tecnologia, eletrônica, automação e outros muitos assuntos diversos envolvendo ciências, engenharia, história e por ai vai. Sempre buscando entender esse vasto mundo complexo e nos tempos livres, fisurado em escutar música e assistir filmes. Espero conseguir colher ótimos frutos ao longo da minha jornada e criar ótimas relações pessoais.</p>
 
 <div align=center>
 	<a href="https://www.instagram.com/gabfreitassilva"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
